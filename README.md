@@ -31,7 +31,6 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2B9EB3?style=flat-square&logoColor=white" />
 
   <img alt="SQL" src="https://img.shields.io/badge/SQL-FF6B6B?style=flat-square&logoColor=white" />
-    <img alt="C#" src="https://img.shields.io/badge/"C#"-181717?style=flat-square&logoColor=white" />
 
   <img alt="Object Oriented Programming" src="https://img.shields.io/badge/Object%20Oriented%20Programming-EE4C2C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="LINQ" src="https://img.shields.io/badge/LINQ-FF6B6B?style=flat-square&logoColor=white" />
